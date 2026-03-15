@@ -253,7 +253,6 @@ section.visible {
 .timeline-item:nth-child(odd) {
     left: 0;
     padding-right: 4rem;
-    /* text-align: right; */
 }
 
 .timeline-item:nth-child(even) {
